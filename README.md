@@ -35,5 +35,8 @@ Go to root directory of project & run below command, it will download all depend
 
 # Access REST API
 
-Get All User list : http://localhost:3000/api/users
-Get All Thread list : http://localhost:3000/api/threads
+http://(DNS):(port)/api/avengers
+   
+http://(DNS):(port)/api/avengers/4
+   
+http://(DNS):(port)/api/marvels
